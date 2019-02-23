@@ -70,7 +70,7 @@ Te recomendamos en este punto añadir cosillas molonas, pero vamos, que ya tiene
 **Para el fork, los ejemplos y funcionalidades 👉 https://kooltheba.github.io/memory-game/ + https://github.com/udacity/fend-project-memory-game**
 
 
-#### Nota
+#### Nota y agradecimientos
 Este es un proyecto propuesto por Udacity en uno de sus Nanodegrees. Agradecemos los contenidos y el mantenimiento del proyecto por parte de todos los contributors y mantainers.
 
 
