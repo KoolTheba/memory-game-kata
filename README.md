@@ -67,7 +67,7 @@ Te recomendamos en este punto añadir cosillas molonas, pero vamos, que ya tiene
 - Botón de *reset* o *empezar de nuevo* que resetea toda la cuadrícula o *grid* de cartas
  
 
-**Para el fork, los ejemplos y funcionalidades 👉 https://kooltheba.github.io/memory-game/ + https://github.com/udacity/fend-project-memory-game**
+**Para el fork, los ejemplos y funcionalidades 👉 https://github.com/KoolTheba/memory-game + https://github.com/udacity/fend-project-memory-game**
 
 
 #### Nota y agradecimientos
