@@ -2,7 +2,7 @@
 Kata de Javascript intermedio para el 1er evento Marzo Node Girls Madrid  💪 💪
 
 ### ¿Qué construirás?
-El Juego de la Memoria es el clásico juego de buscar las parejas de cartas idénticas, algo a lo que también se le ha llamado el Juego de la Concentración. A este te proponemos añadirle más funcionalidades como un panel de resultados (score), un botón de *empezar de nuevo* y un cronómetro. Ah!! Y sin olvidarnos la ventana de **Has ganado el juego!!**
+El Juego de la Memoria es el clásico juego de buscar las parejas de cartas idénticas, algo a lo que también se le ha llamado el Juego de la Concentración. A este te proponemos añadirle más funcionalidades como un panel de resultados (score), un botón de *empezar de nuevo* y un cronómetro. Ah!! Y sin olvidarnos la ventana de **has ganado el juego!!**
 
 El estilo lo puedes replicar para centrarte en desarrollar el dinamismo del juego con Javascript, o modificarlo o hacerlo desde cero! Tú decides!
 
